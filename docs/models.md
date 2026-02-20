@@ -15,6 +15,22 @@ Program
 
 ---
 
+# Data Flow Overview
+
+```
+CSVupload
+   ↓
+EVMData (raw)
+   ↓
+EVMSnapshot (aggregated)
+   ↓
+Program calculations
+   ↓
+Dashboard
+```
+
+---
+
 # Program Model
 
 The `Program` model represents the top-level.
@@ -212,21 +228,7 @@ program.csv_upload.all()
 
 ---
 
-# Data Flow Overview
 
-```
-CSVupload
-   ↓
-EVMData (raw)
-   ↓
-EVMSnapshot (aggregated)
-   ↓
-Program calculations
-   ↓
-Dashboard
-```
-
----
 
 # Table Roles Summary
 

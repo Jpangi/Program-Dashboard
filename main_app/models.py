@@ -248,7 +248,7 @@ class EVMData(models.Model):
     #ipt column
 
 
-    cam = models.IntegerField(max_length=50)
+    cam = models.IntegerField()
 
     set_options = [
         ('EAC', 'EAC (Estimate at Completion)'),
