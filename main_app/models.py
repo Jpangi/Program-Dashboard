@@ -10,6 +10,7 @@ from decimal import Decimal
 # 1. `Program` - Top-level program
 # ============================================================
 class Program(models.Model):
+    
     name = models.CharField(max_length=50)
     program_code = models.CharField(max_length=50, unique=True)
     description = models.TextField(blank=True)
@@ -174,6 +175,8 @@ class Program(models.Model):
 class ControlAccount(models.Model):
     ca_name = models.CharField(max_length=50)
     description = models.CharField(max_length=50)
+    cam = models.CharField(max_length=100, blank=True)
+    ipt = models.CharField(max_length=100, blank=True)
     program = models.ForeignKey(
         Program,
         # creates relationship to Program
@@ -205,11 +208,63 @@ class WorkPackage(models.Model):
     def __str__(self):
         return f"{self.wp_name} - {self.control_account.ca_name}"
 
+
+
+# ============================================================
+# 6. `CSVupload` - Stores data about the upload
+# ============================================================
+class CSVupload(models.Model):
+    STATUS_CHOICES = [
+    ('pending', 'Pending'),
+    ('processing', 'Processing'),
+    ('completed', 'Completed'),
+    ('failed', 'Failed'),
+    ]
+    #defines the allowed values
+    #first value ex: pending gets stored in database, second value Pending shown to UI
+    #prevents invalid values like random_status
+    program = models.ForeignKey(
+        Program,
+        on_delete=models.CASCADE,
+        related_name='csv_upload'
+    )
+
+    #stores the person who uploaded the file
+    uploaded_by = models.ForeignKey(
+        User,
+        on_delete=models.SET_NULL, # if the user is deleted keep the file
+        null=True
+    )
+
+  
+    file = models.FileField(upload_to='uploads/%Y/%m/')
+    #where the file actually gets uploaded and changes name of file
+    # stores file in: media/uploads/2026/02/
+
+
+    original_file = models.CharField(max_length=255)
+    #original File name
+
+    
+    uploaded_at = models.DateField(auto_now_add=True)
+    # auto sets date when created
+    status = models.CharField(max_length=50, choices=STATUS_CHOICES)
+    errors = models.JSONField(default=list, blank=True)
+    rows_total = models.IntegerField(default=0)
+    rows_processed = models.IntegerField(default=0)
+    rows_failed = models.IntegerField(default=0)
 # ============================================================
 # 4. `EVMData` - Individual data points from CSV
 # ============================================================
     #every column in the CSV file with the data
 class EVMData(models.Model):
+    program = models.ForeignKey(
+    Program,
+    on_delete=models.CASCADE,
+    related_name='evm_data',
+    null=True,
+    blank=True
+)
     control_account = models.ForeignKey(
         ControlAccount,
         on_delete=models.CASCADE,
@@ -222,6 +277,12 @@ class EVMData(models.Model):
         WorkPackage,
         on_delete=models.CASCADE,
         related_name='evm_data',#allows for reverse relationship WP <->Data models
+        null=True,
+        blank=True
+    )
+    csv_upload = models.ForeignKey(                       # add this
+        CSVupload,
+        on_delete=models.SET_NULL,
         null=True,
         blank=True
     )
@@ -248,7 +309,8 @@ class EVMData(models.Model):
     #ipt column
 
 
-    cam = models.IntegerField(max_length=50)
+    cam = models.CharField(max_length=100, blank=True)  # change from IntegerField
+    ipt = models.CharField(max_length=100, blank=True)  # add this below cam
 
     set_options = [
         ('EAC', 'EAC (Estimate at Completion)'),
@@ -306,42 +368,3 @@ class EVMSnapshot(models.Model):
         ca_name = self.control_account.ca_name if self.control_account else "Program-wide"
         return f"{self.program.program_code} - {ca_name} - {self.snapshot_date}"
 
-# ============================================================
-# 6. `CSVupload` - Stores data about the upload
-# ============================================================
-class CSVupload(models.Model):
-    STATUS_CHOICES = [
-    ('pending', 'Pending'),
-    ('processing', 'Processing'),
-    ('completed', 'Completed'),
-    ('failed', 'Failed'),
-    ]
-    #defines the allowed values
-    #first value ex: pending gets stored in database, second value Pending shown to UI
-    #prevents invalid values like random_status
-    program = models.ForeignKey(
-        Program,
-        on_delete=models.CASCADE,
-        related_name='csv_upload'
-    )
-
-    #stores the person who uploaded the file
-    uploaded_by = models.ForeignKey(
-        User,
-        on_delete=models.SET_NULL, # if the user is deleted keep the file
-        null=True
-    )
-
-  
-    file = models.FileField(upload_to='uploads/%Y/%m/')
-    #where the file actually gets uploaded and changes name of file
-    # stores file in: media/uploads/2026/02/
-
-
-    original_file = models.CharField(max_length=255)
-    #original File name
-
-    
-    uploaded_at = models.DateField(auto_now_add=True)
-    # auto sets date when created
-    status = models.CharField(max_length=50, choices=STATUS_CHOICES)

@@ -1,0 +1,25 @@
+
+{% extends 'base.html' %}
+
+{% block content %}
+{% load humanize %}
+<h1>{{ program.name }}</h1>
+<p>{{ program.program_code }} | {{ program.start_date }} - {{ program.end_date }}</p>
+
+<h2>Latest Month</h2>
+<p>BCWS: {{ program.latest_bcws|floatformat:2|intcomma  }}</p>
+<p>BCWP: {{ program.latest_bcwp|floatformat:2|intcomma  }}</p>
+<p>ACWP: {{ program.latest_acwp|floatformat:2|intcomma  }}</p>
+<p>CPI: {{ program.monthly_cpi|floatformat:2|intcomma }}</p>
+<p>SPI: {{ program.monthly_spi|floatformat:2|intcomma }}</p>
+
+<h2>Cumulative</h2>
+<p>BCWS: {{ program.cumulative_bcws|floatformat:2|intcomma  }}</p>
+<p>BCWP: {{ program.cumulative_bcwp|floatformat:2|intcomma  }}</p>
+<p>ACWP: {{ program.cumulative_acwp|floatformat:2|intcomma  }}</p>
+<p>CPI: {{ program.cumulative_cpi|floatformat:2|intcomma }}</p>
+<p>SPI: {{ program.cumulative_spi|floatformat:2|intcomma }}</p>
+<p>EAC: {{ program.eac|floatformat:2|intcomma  }}</p>
+<p>BAC: {{ program.bac|floatformat:2|intcomma  }}</p>
+
+{% endblock %}

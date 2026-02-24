@@ -1,0 +1,21 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Program Dashboard</title>
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+</head>
+<body>
+    <nav>
+        <a href="{% url 'home' %}">Programs</a> |
+        <a href="{% url 'create_program' %}">+ New Program</a> |
+        <a href="{% url 'upload_csv' %}">Upload CSV</a>
+    </nav>
+    
+    <hr>
+
+    {% block content %}
+    {% endblock %}
+
+</body>
+</html>

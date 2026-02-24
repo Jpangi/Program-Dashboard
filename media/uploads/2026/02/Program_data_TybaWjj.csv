@@ -1,0 +1,22 @@
+Control Account,Work Package,Resource,EOC,Results,IPT,CAM,Set Name,Date,Value
+Name_CA,Name_WP,,Labor,Dollars,Operations,Name of person,EAC,1/10/2024,76.43226413
+Name_CA,Name_WP,,Labor,FTE,Finance,Name of person,EAC,1/11/2024,85.02052766
+Name_CA,Name_WP,,Labor,Hours,Marketing,Name of person,EAC,1/12/2024,86.61873159
+Name_CA,Name_WP,,Labor,Direct,Operations,Name of person,CEAC,1/13/2024,68.8729439
+Name_CA,Name_WP,,Labor,Dollars,Finance,Name of person,CEAC,1/14/2024,54.80900638
+Name_CA,Name_WP,,Labor,FTE,Marketing,Name of person,BCWP,1/15/2024,56.55644756
+Name_CA,Name_WP,,Labor,Hours,Operations,Name of person,BCWP,1/16/2024,37.6855796
+Name_CA,Name_WP,,Material,Direct,Finance,Name of person,BCWS,1/17/2024,74.30735822
+Name_CA,Name_WP,,Material,Direct,Marketing,Name of person,BCWS,1/18/2024,85.13285247
+Name_CA,Name_WP,,Material,Direct,Operations,Name of person,EAC,1/19/2024,60.89350729
+Name_CA,Name_WP,,Material,Dollars,Finance,Name of person,EAC,1/20/2024,77.5293884
+Name_CA,Name_WP,,Material,Dollars,Marketing,Name of person,EAC,1/21/2024,87.96496442
+Name_CA,Name_WP,,Material,Dollars,Operations,Name of person,CEAC,1/22/2024,95.41756552
+Name_CA,Name_WP,,Material,Dollars,Finance,Name of person,CEAC,1/23/2024,0.6130036769
+Name_CA,Name_WP,,ODC,Direct,Marketing,Name of person,BCWP,1/24/2024,53.44710508
+Name_CA,Name_WP,,ODC,Dollars,Operations,Name of person,BCWP,1/25/2024,32.10800356
+Name_CA,Name_WP,,PCL,FTE,Finance,Name of person,BCWS,1/26/2024,80.62045632
+Name_CA,Name_WP,,PCL,Hours,Marketing,Name of person,BCWS,1/27/2024,47.51986751
+Name_CA,Name_WP,,ODC,Direct,Operations,Name of person,BCWS,1/28/2024,81.78901273
+Name_CA,Name_WP,,ODC,Direct,Finance,Name of person,BCWS,1/29/2024,5.159492876
+Name_CA,Name_WP,,PCL,Direct,Marketing,Name of person,BCWS,1/30/2024,51.62573207
