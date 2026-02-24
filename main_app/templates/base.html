@@ -4,14 +4,25 @@
 <head>
     <title>Program Dashboard</title>
     <link rel="stylesheet" href="{% static 'css/style.css' %}">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
     <nav>
-        <a href="{% url 'home' %}">Programs</a> |
+        {% if user.is_authenticated %}
+        <a href="{% url 'programs' %}">Programs</a> |
         <a href="{% url 'create_program' %}">+ New Program</a> |
         <a href="{% url 'upload_csv' %}">Upload CSV</a>
+     
+            <form id="logout-form" method="post" action="{% url 'logout' %}">
+              {% csrf_token %}
+              <button type="submit">Log out</button>
+            </form>
+          {% else %}
+        <a href="{% url 'home' %}">Login</a>
+        <a href="{% url 'signup' %}">Sign Up</a>
+          {% endif %}
     </nav>
-    
+
     <hr>
 
     {% block content %}

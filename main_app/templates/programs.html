@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>Programs</h1>
+
+{% for program in programs %}
+    <div>
+        <a href="{% url 'program_detail' program.pk %}">
+            <h2>{{ program.name }}</h2>
+        </a>
+        <p>{{ program.program_code }}</p>
+        <p>{{ program.start_date }} - {{ program.end_date }}</p>
+    </div>
+{% empty %}
+    <p>No programs yet.</p>
+{% endfor %}
+{% endblock %}

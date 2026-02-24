@@ -1,0 +1,274 @@
+Control Account,Work Package,Resource,EOC,Results,IPT,CAM,Set Name,Date,Value
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWS,1/31/2023,45000.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWP,1/31/2023,42000.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,ACWP,1/31/2023,44000.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,EAC,1/31/2023,540000.00
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWS,1/31/2023,5.0
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWP,1/31/2023,4.5
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,ACWP,1/31/2023,4.8
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWS,2/28/2023,48000.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWP,2/28/2023,46000.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,ACWP,2/28/2023,47500.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,EAC,2/28/2023,540000.00
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWS,2/28/2023,5.5
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWP,2/28/2023,5.2
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,ACWP,2/28/2023,5.0
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWS,3/31/2023,50000.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWP,3/31/2023,49000.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,ACWP,3/31/2023,51000.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,EAC,3/31/2023,540000.00
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWS,3/31/2023,6.0
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWP,3/31/2023,5.8
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,ACWP,3/31/2023,6.1
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWS,4/30/2023,52000.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWP,4/30/2023,50000.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,ACWP,4/30/2023,53000.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,EAC,4/30/2023,540000.00
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWS,4/30/2023,6.5
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWP,4/30/2023,6.2
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,ACWP,4/30/2023,6.4
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWS,5/31/2023,54000.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWP,5/31/2023,52000.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,ACWP,5/31/2023,54500.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,EAC,5/31/2023,540000.00
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWS,5/31/2023,7.0
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWP,5/31/2023,6.8
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,ACWP,5/31/2023,7.1
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWS,6/30/2023,56000.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWP,6/30/2023,54000.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,ACWP,6/30/2023,56000.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,EAC,6/30/2023,540000.00
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWS,6/30/2023,7.5
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWP,6/30/2023,7.2
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,ACWP,6/30/2023,7.4
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWS,7/31/2023,58000.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWP,7/31/2023,56000.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,ACWP,7/31/2023,57500.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,EAC,7/31/2023,540000.00
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWS,7/31/2023,8.0
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWP,7/31/2023,7.8
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,ACWP,7/31/2023,8.0
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWS,8/31/2023,60000.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWP,8/31/2023,58000.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,ACWP,8/31/2023,60500.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,EAC,8/31/2023,540000.00
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWS,8/31/2023,8.5
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWP,8/31/2023,8.2
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,ACWP,8/31/2023,8.4
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWS,9/30/2023,62000.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWP,9/30/2023,60000.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,ACWP,9/30/2023,62000.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,EAC,9/30/2023,540000.00
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWS,9/30/2023,9.0
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWP,9/30/2023,8.8
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,ACWP,9/30/2023,9.1
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWS,10/31/2023,64000.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWP,10/31/2023,62000.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,ACWP,10/31/2023,63500.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,EAC,10/31/2023,540000.00
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWS,10/31/2023,9.5
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWP,10/31/2023,9.2
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,ACWP,10/31/2023,9.4
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWS,11/30/2023,66000.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWP,11/30/2023,64000.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,ACWP,11/30/2023,65500.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,EAC,11/30/2023,540000.00
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWS,11/30/2023,10.0
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWP,11/30/2023,9.8
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,ACWP,11/30/2023,10.1
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWS,12/31/2023,68000.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWP,12/31/2023,66000.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,ACWP,12/31/2023,67500.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,EAC,12/31/2023,540000.00
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWS,12/31/2023,10.5
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWP,12/31/2023,10.2
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,ACWP,12/31/2023,10.4
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWS,1/31/2024,70000.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWP,1/31/2024,68000.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,ACWP,1/31/2024,69500.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,EAC,1/31/2024,540000.00
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWS,1/31/2024,11.0
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWP,1/31/2024,10.8
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,ACWP,1/31/2024,11.0
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWS,1/31/2023,30000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWP,1/31/2023,28000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,ACWP,1/31/2023,29000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,EAC,1/31/2023,360000.00
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWS,1/31/2023,3.0
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWP,1/31/2023,2.8
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,ACWP,1/31/2023,2.9
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWS,2/28/2023,32000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWP,2/28/2023,31000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,ACWP,2/28/2023,30500.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,EAC,2/28/2023,360000.00
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWS,2/28/2023,3.5
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWP,2/28/2023,3.3
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,ACWP,2/28/2023,3.2
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWS,3/31/2023,34000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWP,3/31/2023,35000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,ACWP,3/31/2023,34000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,EAC,3/31/2023,360000.00
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWS,3/31/2023,4.0
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWP,3/31/2023,4.2
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,ACWP,3/31/2023,4.0
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWS,4/30/2023,36000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWP,4/30/2023,35000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,ACWP,4/30/2023,36000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,EAC,4/30/2023,360000.00
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWS,4/30/2023,4.5
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWP,4/30/2023,4.3
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,ACWP,4/30/2023,4.4
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWS,5/31/2023,38000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWP,5/31/2023,37000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,ACWP,5/31/2023,38000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,EAC,5/31/2023,360000.00
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWS,5/31/2023,5.0
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWP,5/31/2023,4.8
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,ACWP,5/31/2023,4.9
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWS,6/30/2023,40000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWP,6/30/2023,39000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,ACWP,6/30/2023,40000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,EAC,6/30/2023,360000.00
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWS,6/30/2023,5.5
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWP,6/30/2023,5.3
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,ACWP,6/30/2023,5.4
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWS,7/31/2023,42000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWP,7/31/2023,41000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,ACWP,7/31/2023,42000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,EAC,7/31/2023,360000.00
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWS,7/31/2023,6.0
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWP,7/31/2023,5.8
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,ACWP,7/31/2023,5.9
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWS,8/31/2023,44000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWP,8/31/2023,43000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,ACWP,8/31/2023,44000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,EAC,8/31/2023,360000.00
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWS,8/31/2023,6.5
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWP,8/31/2023,6.3
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,ACWP,8/31/2023,6.4
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWS,9/30/2023,46000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWP,9/30/2023,45000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,ACWP,9/30/2023,46000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,EAC,9/30/2023,360000.00
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWS,9/30/2023,7.0
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWP,9/30/2023,6.8
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,ACWP,9/30/2023,6.9
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWS,10/31/2023,48000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWP,10/31/2023,47000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,ACWP,10/31/2023,48000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,EAC,10/31/2023,360000.00
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWS,10/31/2023,7.5
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWP,10/31/2023,7.3
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,ACWP,10/31/2023,7.4
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWS,11/30/2023,50000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWP,11/30/2023,49000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,ACWP,11/30/2023,50000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,EAC,11/30/2023,360000.00
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWS,11/30/2023,8.0
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWP,11/30/2023,7.8
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,ACWP,11/30/2023,7.9
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWS,12/31/2023,52000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWP,12/31/2023,51000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,ACWP,12/31/2023,52000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,EAC,12/31/2023,360000.00
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWS,12/31/2023,8.5
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWP,12/31/2023,8.3
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,ACWP,12/31/2023,8.4
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWS,1/31/2024,54000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWP,1/31/2024,53000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,ACWP,1/31/2024,54000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,EAC,1/31/2024,360000.00
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWS,1/31/2024,9.0
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWP,1/31/2024,8.8
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,ACWP,1/31/2024,8.9
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWS,1/31/2023,60000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWP,1/31/2023,55000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,ACWP,1/31/2023,58000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,EAC,1/31/2023,720000.00
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWS,1/31/2023,8.0
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWP,1/31/2023,7.5
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,ACWP,1/31/2023,7.8
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWS,2/28/2023,62000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWP,2/28/2023,60000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,ACWP,2/28/2023,63000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,EAC,2/28/2023,720000.00
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWS,2/28/2023,8.5
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWP,2/28/2023,8.2
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,ACWP,2/28/2023,8.6
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWS,3/31/2023,65000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWP,3/31/2023,64000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,ACWP,3/31/2023,66000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,EAC,3/31/2023,720000.00
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWS,3/31/2023,9.0
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWP,3/31/2023,8.8
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,ACWP,3/31/2023,9.2
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWS,4/30/2023,67000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWP,4/30/2023,65000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,ACWP,4/30/2023,68000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,EAC,4/30/2023,720000.00
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWS,4/30/2023,9.5
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWP,4/30/2023,9.2
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,ACWP,4/30/2023,9.6
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWS,5/31/2023,69000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWP,5/31/2023,67000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,ACWP,5/31/2023,70000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,EAC,5/31/2023,720000.00
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWS,5/31/2023,10.0
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWP,5/31/2023,9.8
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,ACWP,5/31/2023,10.2
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWS,6/30/2023,71000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWP,6/30/2023,69000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,ACWP,6/30/2023,72000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,EAC,6/30/2023,720000.00
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWS,6/30/2023,10.5
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWP,6/30/2023,10.2
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,ACWP,6/30/2023,10.6
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWS,7/31/2023,73000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWP,7/31/2023,71000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,ACWP,7/31/2023,74000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,EAC,7/31/2023,720000.00
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWS,7/31/2023,11.0
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWP,7/31/2023,10.8
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,ACWP,7/31/2023,11.2
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWS,8/31/2023,75000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWP,8/31/2023,73000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,ACWP,8/31/2023,76000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,EAC,8/31/2023,720000.00
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWS,8/31/2023,11.5
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWP,8/31/2023,11.2
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,ACWP,8/31/2023,11.6
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWS,9/30/2023,77000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWP,9/30/2023,75000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,ACWP,9/30/2023,78000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,EAC,9/30/2023,720000.00
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWS,9/30/2023,12.0
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWP,9/30/2023,11.8
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,ACWP,9/30/2023,12.2
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWS,10/31/2023,79000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWP,10/31/2023,77000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,ACWP,10/31/2023,80000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,EAC,10/31/2023,720000.00
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWS,10/31/2023,12.5
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWP,10/31/2023,12.2
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,ACWP,10/31/2023,12.6
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWS,11/30/2023,81000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWP,11/30/2023,79000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,ACWP,11/30/2023,82000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,EAC,11/30/2023,720000.00
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWS,11/30/2023,13.0
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWP,11/30/2023,12.8
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,ACWP,11/30/2023,13.2
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWS,12/31/2023,83000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWP,12/31/2023,81000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,ACWP,12/31/2023,84000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,EAC,12/31/2023,720000.00
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWS,12/31/2023,13.5
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWP,12/31/2023,13.2
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,ACWP,12/31/2023,13.6
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWS,1/31/2024,85000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWP,1/31/2024,83000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,ACWP,1/31/2024,86000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,EAC,1/31/2024,720000.00
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWS,1/31/2024,14.0
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWP,1/31/2024,13.8
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,ACWP,1/31/2024,14.2

@@ -5,7 +5,12 @@
 {% load humanize %}
 <h1>{{ program.name }}</h1>
 <p>{{ program.program_code }} | {{ program.start_date }} - {{ program.end_date }}</p>
-
+  <div class="program-actions">
+    <a href="{% url 'Program-update' program.id %}" class="btn warn">Edit</a>
+    <a href="{% url 'Program-delete' program.id %}" class="btn danger"
+      >Delete</a
+    >
+  </div>
 <h2>Latest Month</h2>
 <p>BCWS: {{ program.latest_bcws|floatformat:2|intcomma  }}</p>
 <p>BCWP: {{ program.latest_bcwp|floatformat:2|intcomma  }}</p>
@@ -21,5 +26,50 @@
 <p>SPI: {{ program.cumulative_spi|floatformat:2|intcomma }}</p>
 <p>EAC: {{ program.eac|floatformat:2|intcomma  }}</p>
 <p>BAC: {{ program.bac|floatformat:2|intcomma  }}</p>
+<div class="card">
+    <h2>Chart</h2>
+    <select id="cobraSelect">
+        <option value="BCWS">BCWS (Planned)</option>
+        <option value="BCWP" selected>BCWP (Earned)</option>
+        <option value="ACWP">ACWP (Actual)</option>
+    </select>
+    <select id="resultsSelect">
+        <option value="FTE" selected>FTE</option>
+        <option value="Dollars">Dollars</option>
+        <option value="Direct">Direct</option>
+    </select>
+    <canvas id="fteChart"></canvas>
+</div>
 
+<script>
+    const allData = {{ chart_data|safe }};
+
+    const ctx = document.getElementById('fteChart').getContext('2d');
+    const chart = new Chart(ctx, {
+        type: 'bar',
+        data: {
+            labels: allData['BCWP']['FTE'].dates,
+            datasets: allData['BCWP']['FTE'].datasets,
+        },
+        options: {
+            responsive: true,
+            plugins: { legend: { position: 'top' } },
+            scales: {
+                x: { stacked: true },
+                y: { stacked: true, beginAtZero: true }
+            }
+        }
+    });
+
+    function updateChart() {
+        const cobra = document.getElementById('cobraSelect').value;
+        const results = document.getElementById('resultsSelect').value;
+        chart.data.labels = allData[cobra][results].dates;
+        chart.data.datasets = allData[cobra][results].datasets;
+        chart.update();
+    }
+
+    document.getElementById('cobraSelect').addEventListener('change', updateChart);
+    document.getElementById('resultsSelect').addEventListener('change', updateChart);
+</script>
 {% endblock %}

@@ -1,17 +1,22 @@
-{% extends 'base.html' %}
+{% extends 'base.html' %} {% load static %} {% block head %}
+<link
+  rel="stylesheet"
+  href="{% static 'css/home.css' %}"
+/>
+{% endblock %} {% block content %}
 
-{% block content %}
-<h1>Programs</h1>
 
-{% for program in programs %}
-    <div>
-        <a href="{% url 'program_detail' program.pk %}">
-            <h2>{{ program.name }}</h2>
-        </a>
-        <p>{{ program.program_code }}</p>
-        <p>{{ program.start_date }} - {{ program.end_date }}</p>
-    </div>
-{% empty %}
-    <p>No programs yet.</p>
-{% endfor %}
+<section class="logo-container">
+<h1>Welcome To your Pokedex</h1>
+{% if not user.is_authenticated %}
+<section>
+  <form action="{% url 'home' %}" method="post" class="login">
+    <h1>Login</h1>
+    {% csrf_token %} {{ form.as_p }}
+    <input type="hidden" name="next" value="{{ next }}" />
+    <button type="submit" class="btn submit">Login</button>
+  </form>
+</section>
+{% endif %}
+
 {% endblock %}
