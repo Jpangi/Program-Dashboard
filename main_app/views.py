@@ -125,11 +125,11 @@ class ProgramUpdate(LoginRequiredMixin, UpdateView):
     success_url = reverse_lazy('programs')
 
     def get_queryset(self):
-        return Program.objects.filter(owner=request.user)
+        return Program.objects.filter(owner=self.request.user)
 
 class ProgramDelete(LoginRequiredMixin, DeleteView):
     model = Program
     success_url = '/programs/'
 
     def get_queryset(self):
-        return Program.objects.filter(owner=self.request.user)
+        return Program.objects.filter(owner=self.request.user) 
