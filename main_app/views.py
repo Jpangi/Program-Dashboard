@@ -24,7 +24,7 @@ def create_program(request):
         form = ProgramForm(request.POST)
         if form.is_valid():
             form.save()
-            return redirect('home')
+            return redirect('programs')
     else:
         form = ProgramForm()
     
@@ -49,7 +49,7 @@ def upload_csv(request):
             )
             processor.process()
 
-            return redirect('home')
+            return redirect('programs')
     else:
         form = CSVUploadForm()
 
