@@ -1,6 +1,5 @@
 # Program-Dashboard
 
-# Program Dashboard
 A full-stack web application for Earned Value Management (EVM) tracking. Program managers can create programs, upload CSV data exports, and visualize cost and schedule performance through interactive charts and dashboards.
 
 Link to project: Live Demo
