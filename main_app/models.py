@@ -10,7 +10,13 @@ from decimal import Decimal
 # 1. `Program` - Top-level program
 # ============================================================
 class Program(models.Model):
-    
+    owner = models.ForeignKey(
+        User,
+        on_delete=models.CASCADE,
+        related_name='programs',
+        null=True  # null=True lets you migrate without breaking existing rows
+    )
+    # ... rest of fields
     name = models.CharField(max_length=50)
     program_code = models.CharField(max_length=50, unique=True)
     description = models.TextField(blank=True)

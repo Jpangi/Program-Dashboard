@@ -16,13 +16,15 @@ from django.views.generic.edit import CreateView, UpdateView, DeleteView
 
 @login_required 
 def programs(request):
-    programs = Program.objects.all()
+    programs = Program.objects.filter(owner=request.user) 
     return render(request, 'programs.html', {'programs': programs})
 @login_required 
 def create_program(request):
     if request.method == 'POST':
         form = ProgramForm(request.POST)
         if form.is_valid():
+            program = form.save(commit=False)
+            program.owner = request.user   # attach the logged-in user
             form.save()
             return redirect('programs')
     else:
@@ -32,7 +34,7 @@ def create_program(request):
 @login_required 
 def upload_csv(request):
     if request.method == 'POST':
-        form = CSVUploadForm(request.POST, request.FILES)
+        form = CSVUploadForm(request.POST, request.FILES, user=request.user)
         if form.is_valid():
             upload_record = form.save(commit=False)
             upload_record.uploaded_by = request.user
@@ -51,7 +53,7 @@ def upload_csv(request):
 
             return redirect('programs')
     else:
-        form = CSVUploadForm()
+        form = CSVUploadForm(user=request.user)
 
     return render(request, 'upload_csv.html', {'form': form})
 
@@ -120,7 +122,14 @@ class Home(LoginView):
 class ProgramUpdate(LoginRequiredMixin, UpdateView):
     model = Program
     fields = ['name', 'end_date', 'description']
-    success_url = reverse_lazy('programs') 
+    success_url = reverse_lazy('programs')
+
+    def get_queryset(self):
+        return Program.objects.filter(owner=request.user)
+
 class ProgramDelete(LoginRequiredMixin, DeleteView):
     model = Program
-    success_url = '/programs/'  
+    success_url = '/programs/'
+
+    def get_queryset(self):
+        return Program.objects.filter(owner=self.request.user)

@@ -1,0 +1,274 @@
+Control Account,Work Package,Resource,EOC,Results,IPT,CAM,Set Name,Date,Value
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWS,1/31/2023,2151
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWP,1/31/2023,3164
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,ACWP,1/31/2023,3485
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,EAC,1/31/2023,1233
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWS,1/31/2023,3206
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWP,1/31/2023,1170
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,ACWP,1/31/2023,187
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWS,2/28/2023,3572
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWP,2/28/2023,4785
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,ACWP,2/28/2023,2596
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,EAC,2/28/2023,3235
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWS,2/28/2023,3721
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWP,2/28/2023,2240
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,ACWP,2/28/2023,1118
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWS,3/31/2023,2424
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWP,3/31/2023,2540
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,ACWP,3/31/2023,3603
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,EAC,3/31/2023,2177
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWS,3/31/2023,2952
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWP,3/31/2023,2941
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,ACWP,3/31/2023,2162
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWS,4/30/2023,1693
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWP,4/30/2023,3614
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,ACWP,4/30/2023,4457
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,EAC,4/30/2023,153
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWS,4/30/2023,604
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWP,4/30/2023,929
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,ACWP,4/30/2023,2965
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWS,5/31/2023,2113
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWP,5/31/2023,1313
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,ACWP,5/31/2023,4185
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,EAC,5/31/2023,4076
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWS,5/31/2023,852
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWP,5/31/2023,3812
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,ACWP,5/31/2023,2002
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWS,6/30/2023,2165
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWP,6/30/2023,1792
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,ACWP,6/30/2023,563
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,EAC,6/30/2023,2162
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWS,6/30/2023,2310
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWP,6/30/2023,2602
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,ACWP,6/30/2023,4968
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWS,7/31/2023,3757
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWP,7/31/2023,5
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,ACWP,7/31/2023,4281
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,EAC,7/31/2023,3718
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWS,7/31/2023,3401
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWP,7/31/2023,2825
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,ACWP,7/31/2023,2611
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWS,8/31/2023,2980
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWP,8/31/2023,1002
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,ACWP,8/31/2023,4900
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,EAC,8/31/2023,4705
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWS,8/31/2023,3004
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWP,8/31/2023,19
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,ACWP,8/31/2023,3429
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWS,9/30/2023,4720
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWP,9/30/2023,4493
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,ACWP,9/30/2023,2341
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,EAC,9/30/2023,2168
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWS,9/30/2023,122
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWP,9/30/2023,3629
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,ACWP,9/30/2023,3910
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWS,10/31/2023,4364
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWP,10/31/2023,797
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,ACWP,10/31/2023,589
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,EAC,10/31/2023,4006
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWS,10/31/2023,2255
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWP,10/31/2023,2318
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,ACWP,10/31/2023,3966
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWS,11/30/2023,3687
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWP,11/30/2023,1898
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,ACWP,11/30/2023,1918
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,EAC,11/30/2023,547
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWS,11/30/2023,2212
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWP,11/30/2023,844
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,ACWP,11/30/2023,1454
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWS,12/31/2023,1390
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWP,12/31/2023,4380
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,ACWP,12/31/2023,1835
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,EAC,12/31/2023,467
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWS,12/31/2023,1474
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWP,12/31/2023,1682
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,ACWP,12/31/2023,3506
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWS,1/31/2024,4625
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWP,1/31/2024,611
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,ACWP,1/31/2024,750
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,EAC,1/31/2024,3842
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWS,1/31/2024,326
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWP,1/31/2024,3636
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,ACWP,1/31/2024,4199
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWS,1/31/2023,3966
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWP,1/31/2023,4863
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,ACWP,1/31/2023,2590
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,EAC,1/31/2023,1084
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWS,1/31/2023,3695
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWP,1/31/2023,3795
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,ACWP,1/31/2023,2753
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWS,2/28/2023,2251
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWP,2/28/2023,1179
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,ACWP,2/28/2023,2145
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,EAC,2/28/2023,3321
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWS,2/28/2023,4776
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWP,2/28/2023,1830
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,ACWP,2/28/2023,4957
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWS,3/31/2023,1663
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWP,3/31/2023,4119
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,ACWP,3/31/2023,1764
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,EAC,3/31/2023,4364
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWS,3/31/2023,3052
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWP,3/31/2023,3114
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,ACWP,3/31/2023,2844
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWS,4/30/2023,552
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWP,4/30/2023,69
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,ACWP,4/30/2023,3047
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,EAC,4/30/2023,550
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWS,4/30/2023,2444
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWP,4/30/2023,2782
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,ACWP,4/30/2023,3989
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWS,5/31/2023,1818
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWP,5/31/2023,628
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,ACWP,5/31/2023,2292
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,EAC,5/31/2023,4278
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWS,5/31/2023,3187
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWP,5/31/2023,4934
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,ACWP,5/31/2023,1083
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWS,6/30/2023,2567
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWP,6/30/2023,4565
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,ACWP,6/30/2023,2550
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,EAC,6/30/2023,4242
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWS,6/30/2023,115
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWP,6/30/2023,1160
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,ACWP,6/30/2023,3831
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWS,7/31/2023,557
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWP,7/31/2023,1061
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,ACWP,7/31/2023,239
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,EAC,7/31/2023,3088
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWS,7/31/2023,2022
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWP,7/31/2023,4297
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,ACWP,7/31/2023,603
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWS,8/31/2023,4464
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWP,8/31/2023,4520
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,ACWP,8/31/2023,2132
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,EAC,8/31/2023,848
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWS,8/31/2023,4651
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWP,8/31/2023,870
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,ACWP,8/31/2023,3365
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWS,9/30/2023,2782
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWP,9/30/2023,3660
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,ACWP,9/30/2023,715
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,EAC,9/30/2023,1634
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWS,9/30/2023,3658
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWP,9/30/2023,2974
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,ACWP,9/30/2023,4393
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWS,10/31/2023,3755
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWP,10/31/2023,169
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,ACWP,10/31/2023,1559
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,EAC,10/31/2023,84
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWS,10/31/2023,2643
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWP,10/31/2023,3523
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,ACWP,10/31/2023,4734
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWS,11/30/2023,278
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWP,11/30/2023,4833
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,ACWP,11/30/2023,3366
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,EAC,11/30/2023,3759
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWS,11/30/2023,5
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWP,11/30/2023,4036
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,ACWP,11/30/2023,3555
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWS,12/31/2023,4956
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWP,12/31/2023,4869
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,ACWP,12/31/2023,4139
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,EAC,12/31/2023,465
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWS,12/31/2023,1716
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWP,12/31/2023,2464
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,ACWP,12/31/2023,3069
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWS,1/31/2024,3786
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWP,1/31/2024,178
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,ACWP,1/31/2024,433
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,EAC,1/31/2024,2467
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWS,1/31/2024,1452
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWP,1/31/2024,502
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,ACWP,1/31/2024,4042
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWS,1/31/2023,2669
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWP,1/31/2023,3664
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,ACWP,1/31/2023,4674
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,EAC,1/31/2023,4865
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWS,1/31/2023,2626
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWP,1/31/2023,1829
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,ACWP,1/31/2023,4405
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWS,2/28/2023,755
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWP,2/28/2023,445
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,ACWP,2/28/2023,532
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,EAC,2/28/2023,3345
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWS,2/28/2023,242
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWP,2/28/2023,1991
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,ACWP,2/28/2023,558
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWS,3/31/2023,1993
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWP,3/31/2023,2057
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,ACWP,3/31/2023,2594
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,EAC,3/31/2023,2452
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWS,3/31/2023,911
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWP,3/31/2023,2447
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,ACWP,3/31/2023,162
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWS,4/30/2023,3922
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWP,4/30/2023,3514
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,ACWP,4/30/2023,4619
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,EAC,4/30/2023,2234
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWS,4/30/2023,48
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWP,4/30/2023,3598
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,ACWP,4/30/2023,760
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWS,5/31/2023,4352
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWP,5/31/2023,3044
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,ACWP,5/31/2023,4899
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,EAC,5/31/2023,2642
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWS,5/31/2023,2816
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWP,5/31/2023,3164
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,ACWP,5/31/2023,519
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWS,6/30/2023,2181
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWP,6/30/2023,1371
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,ACWP,6/30/2023,4013
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,EAC,6/30/2023,3657
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWS,6/30/2023,2785
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWP,6/30/2023,3655
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,ACWP,6/30/2023,4569
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWS,7/31/2023,3272
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWP,7/31/2023,1816
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,ACWP,7/31/2023,1223
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,EAC,7/31/2023,958
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWS,7/31/2023,3400
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWP,7/31/2023,3074
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,ACWP,7/31/2023,758
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWS,8/31/2023,3992
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWP,8/31/2023,3620
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,ACWP,8/31/2023,1660
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,EAC,8/31/2023,3782
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWS,8/31/2023,3484
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWP,8/31/2023,4890
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,ACWP,8/31/2023,1281
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWS,9/30/2023,2429
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWP,9/30/2023,2177
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,ACWP,9/30/2023,190
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,EAC,9/30/2023,1550
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWS,9/30/2023,1050
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWP,9/30/2023,1319
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,ACWP,9/30/2023,2757
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWS,10/31/2023,4644
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWP,10/31/2023,411
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,ACWP,10/31/2023,821
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,EAC,10/31/2023,1544
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWS,10/31/2023,2171
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWP,10/31/2023,3865
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,ACWP,10/31/2023,65
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWS,11/30/2023,3295
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWP,11/30/2023,3990
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,ACWP,11/30/2023,3467
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,EAC,11/30/2023,514
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWS,11/30/2023,4150
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWP,11/30/2023,1349
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,ACWP,11/30/2023,3209
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWS,12/31/2023,3416
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWP,12/31/2023,33
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,ACWP,12/31/2023,1539
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,EAC,12/31/2023,1702
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWS,12/31/2023,74
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWP,12/31/2023,9
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,ACWP,12/31/2023,1035
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWS,1/31/2024,2381
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWP,1/31/2024,3279
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,ACWP,1/31/2024,4926
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,EAC,1/31/2024,2992
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWS,1/31/2024,1025
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWP,1/31/2024,1890
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,ACWP,1/31/2024,4963

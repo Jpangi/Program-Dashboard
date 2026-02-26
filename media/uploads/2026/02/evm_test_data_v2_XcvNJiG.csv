@@ -1,0 +1,64 @@
+Control Account,Work Package,Resource,EOC,Results,IPT,CAM,Set Name,Date,Value
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWS,1/31/2024,45000.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWP,1/31/2024,42000.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,ACWP,1/31/2024,44000.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,EAC,1/31/2024,540000.00
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWS,1/31/2024,5.0
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWP,1/31/2024,4.5
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,ACWP,1/31/2024,4.8
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWS,2/29/2024,48000.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWP,2/29/2024,46000.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,ACWP,2/29/2024,47500.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,EAC,2/29/2024,540000.00
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWS,2/29/2024,5.5
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWP,2/29/2024,5.2
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,ACWP,2/29/2024,5.0
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWS,3/31/2024,50000.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,BCWP,3/31/2024,49000.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,ACWP,3/31/2024,51000.00
+Propulsion,Engine Development,,Labor,Dollars,Engineering,John Smith,EAC,3/31/2024,540000.00
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWS,3/31/2024,6.0
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,BCWP,3/31/2024,5.8
+Propulsion,Engine Development,,Labor,FTE,Engineering,John Smith,ACWP,3/31/2024,6.1
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWS,1/31/2024,30000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWP,1/31/2024,28000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,ACWP,1/31/2024,29000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,EAC,1/31/2024,360000.00
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWS,1/31/2024,3.0
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWP,1/31/2024,2.8
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,ACWP,1/31/2024,2.9
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWS,2/29/2024,32000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWP,2/29/2024,31000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,ACWP,2/29/2024,30500.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,EAC,2/29/2024,360000.00
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWS,2/29/2024,3.5
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWP,2/29/2024,3.3
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,ACWP,2/29/2024,3.2
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWS,3/31/2024,34000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,BCWP,3/31/2024,35000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,ACWP,3/31/2024,34000.00
+Avionics,Flight Control Software,,Labor,Dollars,Engineering,Sarah Lee,EAC,3/31/2024,360000.00
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWS,3/31/2024,4.0
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,BCWP,3/31/2024,4.2
+Avionics,Flight Control Software,,Labor,FTE,Engineering,Sarah Lee,ACWP,3/31/2024,4.0
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWS,1/31/2024,60000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWP,1/31/2024,55000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,ACWP,1/31/2024,58000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,EAC,1/31/2024,720000.00
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWS,1/31/2024,8.0
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWP,1/31/2024,7.5
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,ACWP,1/31/2024,7.8
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWS,2/29/2024,62000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWP,2/29/2024,60000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,ACWP,2/29/2024,63000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,EAC,2/29/2024,720000.00
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWS,2/29/2024,8.5
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWP,2/29/2024,8.2
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,ACWP,2/29/2024,8.6
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWS,3/31/2024,65000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,BCWP,3/31/2024,64000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,ACWP,3/31/2024,66000.00
+Structures,Fuselage Assembly,,Material,Dollars,Manufacturing,Mike Torres,EAC,3/31/2024,720000.00
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWS,3/31/2024,9.0
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,BCWP,3/31/2024,8.8
+Structures,Fuselage Assembly,,Material,FTE,Manufacturing,Mike Torres,ACWP,3/31/2024,9.2
